@@ -54,7 +54,7 @@ dependencies = [
     "matplotlib>=3.0,<4.0",
     "more-itertools",
     "portalocker>=2.0,<3.0",
-    "seaborn>=0.13,<0.14",
+    "seaborn>=0.12,<0.14",
     "pyyaml>=6.0,<7.0",
     "tensorboard>=2.0,<3.0",
     "typing-extensions",
